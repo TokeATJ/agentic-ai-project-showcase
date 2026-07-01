@@ -68,9 +68,15 @@ AEGIS delivers real-time control, high-fidelity monitoring, and deep technical i
 ## 5. Automated Technical & Executive Reports with Remediation techniques
 
 The ultimate value of AEGIS lies in its ability to bridge the gap between technical finding identification and executive compliance resolution.
-
+### Technical Reprot
 <p align="center">
  <img width="3680" height="1961" alt="image" src="https://github.com/user-attachments/assets/06c10e49-97e5-47f7-bb83-a3ee5e74c89e" />
+
+### Executive Report
+</p>
+<p align="center">
+<img width="2242" height="1215" alt="image" src="https://github.com/user-attachments/assets/f6f4f25a-67c2-467f-8c52-0f3d7e3ee6ae" />
+
 
 </p>
 
