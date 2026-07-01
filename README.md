@@ -177,12 +177,12 @@ To protect intellectual property and ensure the platform remains a defensive ass
 ---
 
 ## How to Use This SaaS (Quick Start Guide)
-Login to the REDMIND AGENTIC AI
-Add API Key: Ensure your Gemini API key is configured in Settings.
-Define Target: Enter https://your-staging-app.com.
-Select Active Sandbox Role: Defaults to Security Analyst
-Run: Go to Active Scans & Engine, input your target URL, select Launch multi-agent threat modeling
-Export: Click Download Report when finished.
+1.Login to the REDMIND AGENTIC AI
+2.Add API Key: Ensure your Gemini API key is configured in Settings.
+3.Define Target: Enter https://your-staging-app.com.
+4.Select Active Sandbox Role: Defaults to Security Analyst
+5.Run: Go to Active Scans & Engine, input your target URL, select Launch multi-agent threat modeling
+6. Export: Click Download Report when finished.
 
 ## 12. Request a Private Demo
 
