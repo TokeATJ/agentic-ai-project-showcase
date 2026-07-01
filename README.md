@@ -38,9 +38,9 @@ Deploying AI agents without automated cognitive security boundaries leaves organ
 
 ## 3. Solution Overview
 
-2. MULTI-AGENT ARCHITECTURE & WORKFLOW
+### MULTI-AGENT ARCHITECTURE & WORKFLOW
 
-### Key Capabilities
+## Key Capabilities
 * **Recon Agent**: Conducts asynchronous passive DNS checks and server header analysis.
 * **Vulnerability Assessment Agent**: Safely checks for transport weaknesses (weak TLS, missing HSTS, missing CSP, insecure cookies).
 * **Exploit Simulation Agent**: Safely models input validation or endpoint escape paths under strict governance constraints.
@@ -163,7 +163,6 @@ See how the multi-agent engine responds under diverse conditions:
 2. **Scenario B: AI Chatbot Cognitive Bypass Auditing**: Tests conversational models against instruction overrides and prompts, identifying susceptibility to goal hijacking.
 3. **Scenario C: Multi-Agent GRC Evidence compilation**: Demonstrates continuous logging, risk score computation, and cryptographic report signing.
 
-Complete redacted logs and configurations are available in [Demo Scenarios](demos/demo-scenarios.md) and [Sample Input/Output](demos/sample-input-output.md).
 
 ---
 
